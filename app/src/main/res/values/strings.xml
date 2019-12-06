@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Lab2</string>
+
+    <!-- Buttons -->
+    <string name="yes_button">YES</string>
+    <string name="no_button">NO</string>
+    <string name="cheat_button">CHEAT</string>
+    <string name="next_button">-&gt;</string>
+    <string name="prev_button">&lt;-</string>
+
+    <!-- Questions -->
+    <string name="q1">Is this the 1st question?</string>
+    <string name="q2">Is this the 3rd question?</string>
+    <string name="q3">Do you like the test?</string>
+
+    <!-- Toasts -->
+    <string name="answerYes">The answer is YES</string>
+    <string name="answerNo">The answer is NO</string>
+    <string name="cheater">Cheater!</string>
+    <string name="wrong">You are wrong!</string>
+    <string name="right">You are right!</string>
+</resources>
